@@ -1,5 +1,11 @@
 .top {
-  background-color: #258c8c;
-  height: 100%;
-  padding: 5px;
+  background-color: #307ffd;
+  margin: -8px;
+  padding-top: 110px;
+  padding-left: 15px;
+
+  background-image: url(../img/pattern.png);
+}
+.logo {
+  width: 270px;
 }
