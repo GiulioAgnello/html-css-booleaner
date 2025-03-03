@@ -19,6 +19,7 @@ h1 {
 
 p {
   font-size: 25px;
+  margin-top: 2px;
   margin-bottom: 2px;
   color: rgb(111, 111, 111);
 }
@@ -34,4 +35,12 @@ summary {
 
 ul {
   padding-left: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.tab-title {
+  color: white;
 }
