@@ -42,10 +42,24 @@ ul {
 
 table {
   border-collapse: collapse;
+  font-size: 13px;
 }
 
-.tab-title {
+.tab-titleuno {
   color: white;
+
+  padding-right: 30px;
+  text-align: left;
+}
+.tab-titledue {
+  color: white;
+  text-align: left;
+  padding-right: 40px;
+}
+.tab-titletre {
+  color: white;
+  text-align: left;
+  padding-right: 0px;
 }
 
 h4 {
