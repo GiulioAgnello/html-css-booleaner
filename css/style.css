@@ -1,3 +1,5 @@
+/****** header ******/
+
 .top {
   background-color: #307ffd;
   margin: -8px;
@@ -9,6 +11,7 @@
 .logo {
   width: 270px;
 }
+/* ******* main ******* */
 h1 {
   font-size: 48px;
   margin-bottom: 0%;
@@ -62,7 +65,7 @@ table {
   text-align: left;
   padding-right: 0px;
 }
-
+/* ******** footer ********** */
 h4 {
   font-size: 18px;
   color: rgb(127, 127, 127);
